@@ -6,4 +6,4 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoAlejandroVera0&theme=dracula)](https://github.com/DiegoAlejandroVera/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoAlejandroVera)](https://github.com/ashutosh00710/github-readme-activity-graph)
