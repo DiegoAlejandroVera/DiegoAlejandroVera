@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div style="display: flex, justify-content: center">
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+</div>
 
 <!--
 **DiegoAlejandroVera/DiegoAlejandroVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
