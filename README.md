@@ -17,7 +17,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby&logoColor=red)
 ![RoR](https://img.shields.io/badge/-RoR-333333?style=flat&logo=rubyonrails&logoColor=red)
 
-## Let's get in touch
+## 🌐 Let's get in touch!
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-vera-trujillo/)
 [![gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail)](diegoverat1796@gmail.com)
 
