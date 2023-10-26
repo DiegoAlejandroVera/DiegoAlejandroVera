@@ -1,4 +1,4 @@
-## Hi there! I'm Diego Vera👋
+<h1>Hi there! I'm Diego Vera👋</h1>
 <h2>I'm a software developer based in Cusco, Perú</h2>
 
 ## 🚀 About me 
