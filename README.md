@@ -2,10 +2,10 @@
 <h2>I'm a software developer based in Cusco, Perú</h2>
 
 ## About me 🚀
-  💻 I'm a Full-Stack Web Developer Junior
-  💡 I'm currently pursuing new challenges
-  📚 I'm looking for a work environment where I can keep on learning
-  💬 Ask me about: music, which is one of my biggest passions! 
+  💻 I'm a Full-Stack Web Developer Junior </br>
+  💡 I'm currently pursuing new challenges </br>
+  📚 I'm looking for a work environment where I can keep on learning </br>
+  💬 Ask me about: music, which is one of my biggest passions! </br>
   📲 Let's get in touch!
 
 ## 
