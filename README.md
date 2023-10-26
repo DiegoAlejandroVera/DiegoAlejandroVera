@@ -5,7 +5,7 @@
   💻 I'm a Full-Stack Web Developer Junior </br>
   💡 I'm currently pursuing new challenges </br>
   📚 I'm looking for a work environment where I can keep on learning </br>
-  💬 Ask me about: music, which is one of my biggest passions! </br>
+  💬 Ask me about: music, which is one of my biggest passions too! </br>
 
 ## 🧑🏽‍💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
