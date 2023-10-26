@@ -19,6 +19,6 @@
 
 ## Let's get in touch
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-vera-trujillo/)
-[![linkedin](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new)
+[![linkedin](https://img.shields.io/badge/gmail-0A66C2?logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new)
 
 
