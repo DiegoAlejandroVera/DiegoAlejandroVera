@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: flex, justify-content: center">
+<div style="text-align: center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px" height="100px" />
 </div>
 
