@@ -20,5 +20,5 @@
 ## Let's get in touch
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-vera-trujillo/)
 [![gmail](https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?pli=1#inbox?compose=new)
-<a href="diegoverat1796@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail"></a>
+<a href="diegoverat1796@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Diegoverat1796@gmail.com?style=for-the-badge&logo=gmail"></a>
 
