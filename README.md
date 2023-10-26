@@ -1,7 +1,14 @@
-<h1>Hi there! I'm Diego Vera👋</h1>
-<h2>Software Daveloper</h2>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="150px" height="150px" />
+## Hi there! I'm Diego Vera👋
+<h2>I'm a software developer based in Cusco, Perú</h2>
 
+## About me 🚀
+  💻 I'm a Full-Stack Web Developer Junior
+  💡 I'm currently pursuing new challenges
+  📚 I'm looking for a work environment where I can keep on learning
+  💬 Ask me about: music, which is one of my biggest passions! 
+  📲 Let's get in touch!
+
+## 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
