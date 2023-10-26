@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>Hi there! My name is Diego Vera👋</h1>
 <div style="text-align: center">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px" height="100px" />
 </div>
