@@ -15,7 +15,7 @@
 </br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-![RoR](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=rubyonrails)
+![RoR](https://img.shields.io/badge/-RoR-333333?style=flat&logo=rubyonrails)
 
 ## Let's get in touch
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-vera-trujillo/)
