@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="display: flex, justify-content: center">
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px" height="100px" />
 </div>
 
 <!--
