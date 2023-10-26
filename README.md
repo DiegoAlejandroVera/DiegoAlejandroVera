@@ -10,4 +10,4 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoAlejandroVera&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DiegoAlejandroVera&bg_color=000000&color=806a80&line=404f5b&point=105294&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
