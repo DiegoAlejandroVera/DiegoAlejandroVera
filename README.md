@@ -1,6 +1,6 @@
 <h1>Hi there! I'm Diego Vera👋</h1>
 <h2>Software Daveloper</h2>
-<div style="text-align: center">
+<div style="width: 400px, margin: auto">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="100px" height="100px" />
 </div>
 
