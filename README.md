@@ -15,8 +15,8 @@
 </br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql)
 ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=for-the-badge&logo=ruby&logoColor=red)
-![RoR](https://img.shields.io/badge/-RoR-333333?style=for-the-badge&logo=rubyonrails&logoColor=red)
-![MongoDB](https://img.shields.io/badge/-MongoDb-333333?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## 🌐 Let's get in touch!
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-vera-trujillo/)
